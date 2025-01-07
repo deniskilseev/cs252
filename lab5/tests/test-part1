@@ -1,0 +1,30 @@
+#! /bin/bash
+
+make -C ..
+
+ERROR_TESTS=( test-error-forbidden test-error-malformed-request test-error-method test-error-not-found test-error-unauthorized test-error-version )
+ITERATIVE_TESTS=( test-iterative-auth-accept test-iterative-complex-embeds test-iterative-complex-html test-iterative-index test-iterative-mime-types test-iterative-simple )
+FORK_TESTS=( test-fork-zombie test-fork-robustness )
+POOL_TESTS=( test-pool-count test-pool-load test-pool-robustness )
+THREAD_TESTS=( test-thread-cleanup test-thread-load test-thread-robustness )
+
+ALL_TESTS=(
+${ERROR_TESTS[@]}
+${ITERATIVE_TESTS[@]}
+${FORK_TESTS[@]}
+${POOL_TESTS[@]}
+${THREAD_TESTS[@]}
+)
+
+TOTAL=${#ALL_TESTS[@]}
+SCORE=0
+for TEST in ${ALL_TESTS[@]}; do
+  echo "TEST: ${TEST}"
+  timeout --preserve-status 60 ./$TEST
+  if [[ $? == 0 ]]; then
+    ((SCORE++))
+  fi
+done
+
+echo Score,Total
+echo $SCORE,$TOTAL

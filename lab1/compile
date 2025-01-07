@@ -1,0 +1,37 @@
+#!/bin/bash
+
+
+
+# If anythings else but zero arguments -> error message
+if (($# != 0)); then
+	echo "Usage: compile"
+	exit 1
+fi
+
+
+# Iterate through all files matching the name src*.c
+
+for file in src*.c; do
+	echo "C program: ${file}"
+	gcc -Wall -Werror -std=c11 ${file} -o a.out 2> log
+	if (($? != 0)); then
+		cat log
+		printf "Compilation of ${file} failed!\n\n"
+	else
+		echo "Successfully compiled!"
+	
+		for data in input*.data; do
+			echo "Input file: ${data}"
+			a.out < ${data} 1> output
+			RES=$?
+			cat output
+			if (($RES != 0)); then
+				echo "Run failed on ${data}."
+			else
+				echo "Run successful."
+			fi
+		done
+		echo ""
+	fi
+done
+exit 0

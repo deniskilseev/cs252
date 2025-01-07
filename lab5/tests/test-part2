@@ -1,0 +1,54 @@
+#! /bin/bash
+
+make -C ..
+
+ITERATIVE_TESTS=(
+test-iterative-cgi-bin
+test-iterative-cgi-bin-args
+test-iterative-cgi-bin-mod
+test-iterative-directory-listing-slash
+test-iterative-directory-properties
+test-iterative-directory-icon
+test-iterative-logs-simple
+test-iterative-logs-complex
+test-iterative-stats
+)
+
+TLS_TESTS=(
+test-error-forbidden-tls
+test-error-method-tls
+test-error-not-found-tls
+test-error-unauthorized-tls
+test-iterative-auth-accept-tls
+test-iterative-cgi-bin-args-tls
+test-iterative-cgi-bin-tls
+test-iterative-complex-embeds-tls
+test-iterative-complex-html-tls
+test-iterative-directory-listing-slash-tls
+test-iterative-index-tls
+test-iterative-mime-types-tls
+test-iterative-simple-tls
+)
+
+SECURITY_TESTS=(
+test-iterative-overflow
+)
+
+ALL_TESTS=(
+${ITERATIVE_TESTS[@]}
+${TLS_TESTS[@]}
+${SECURITY_TESTS[@]}
+)
+
+TOTAL=${#ALL_TESTS[@]}
+SCORE=0
+for TEST in ${ALL_TESTS[@]}; do
+  echo "TEST: ${TEST}"
+  timeout --preserve-status 60 ./$TEST
+  if [[ $? == 0 ]]; then
+    ((SCORE++))
+  fi
+done
+
+echo Score,Total
+echo $SCORE,$TOTAL

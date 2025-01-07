@@ -1,0 +1,82 @@
+#!/bin/bash
+
+# Read in args. If not two args, show usage
+if (($# != 2)); then
+    echo "Usage: matrixmul <matrix1> <matrix2>"
+    exit 1
+fi
+
+if [[ ! -e "$1" || ! -r "$1" ]]; then
+    echo "Error: "$1" is not readable!"
+    exit 1
+fi
+
+if [[ ! -e "$2" || ! -r "$2" ]]; then
+    echo "Error: "$2" is not readable!"
+    exit 1
+fi
+
+# Calculate dimensions of both matrices.
+R1=$(cat "$1" | wc -l)
+IFS=' ' read -ra words <<<$(head -1 "$1")
+C1="${#words[@]}"
+
+R2=$(cat "$2" | wc -l)
+IFS=' ' read -ra words <<<$(head -1 "$2")
+C2="${#words[@]}"
+
+# If dimensions are off, multiplication is impossible
+if ((C1 != R2)); then
+    echo "Error: incompatible matrix dimensions!"
+    exit 1
+fi
+
+declare -A matrix1
+declare -A matrix2
+
+R=0
+C=0
+
+for line in $(cat <"$1")
+do
+    if ((C==C1)); then
+        ((R=R+1))
+        ((C=0))
+    fi
+    matrix1[$R,$C]=$line
+    ((C=C+1))
+done
+
+R=0
+C=0
+
+for line in $(cat <"$2")
+do
+    if ((C==C2)); then
+        ((R=R+1))
+        ((C=0))
+    fi
+    matrix2[$R,$C]=$line
+    ((C=C+1))
+done
+
+declare -A result
+
+for ((i=0;i<R1;i++)) do
+    for ((j=0;j<C2;j++)) do
+        result[$i,$j]=0
+        for ((k=0;k<R2;k++)) do
+            ((toAdd=matrix1[$i,$k]*matrix2[$k,$j]))
+            ((result[$i,$j]+=toAdd))
+        done
+    done
+done
+
+for ((R=0;R<R1;R++)) do
+    for ((C=0;C<C2;C++)) do
+        echo -n "${result[$R,$C]} "
+    done
+    echo
+done
+
+exit 0

@@ -1,0 +1,356 @@
+CS 10100,11989-LE1,Lecture,Digital Literacy,TTh,08/22/2023,12/07/2023,noon,1:30p,STEW 314,Xiaojin Liu,liu218@purdue.edu
+CS 15900,12808-LE6,Lecture,C Programming ,TTh,08/22/2023,12/07/2023,1:30p,2:30p,MATH 175,Maxwell C Rees,mcrees@purdue.edu
+CS 15900,12809-L26,Laboratory,C Programming ,Th,08/24/2023,12/07/2023,3:30p,5:30p,SC 231,,
+CS 15900,12810-L27,Laboratory,C Programming ,F,08/25/2023,12/08/2023,11:30a,1:30p,SC G046,,
+CS 15900,12811-L28,Laboratory,C Programming ,W,08/23/2023,12/06/2023,3:30p,5:30p,SC 231,,
+CS 15900,12812-L29,Laboratory,C Programming ,W,08/23/2023,12/06/2023,3:30p,5:30p,SC 231,,
+CS 15900,12814-L31,Laboratory,C Programming ,W,08/23/2023,12/06/2023,9:30a,11:30a,SC G046,,
+CS 15900,12815-L32,Laboratory,C Programming ,Th,08/24/2023,12/07/2023,9:30a,11:30a,SC 189,,
+CS 15900,12816-L33,Laboratory,C Programming ,Th,08/24/2023,12/07/2023,11:30a,1:30p,SC 277,,
+CS 15900,12817-L34,Laboratory,C Programming ,W,08/23/2023,12/06/2023,1:30p,3:30p,SC 231,,
+CS 15900,12818-L35,Laboratory,C Programming ,W,08/23/2023,12/06/2023,1:30p,3:30p,SC 231,,
+CS 15900,19249-LE5,Lecture,C Programming ,TTh,08/22/2023,12/07/2023,2:30p,3:30p,MATH 175,Maxwell C Rees,mcrees@purdue.edu
+CS 15900,19250-L15,Laboratory,C Programming ,W,08/23/2023,12/06/2023,11:30a,1:30p,SC 179,,
+CS 15900,19254-L16,Laboratory,C Programming ,W,08/23/2023,12/06/2023,9:30a,11:30a,SC 231,,
+CS 15900,19257-L17,Laboratory,C Programming ,W,08/23/2023,12/06/2023,9:30a,11:30a,SC 231,,
+CS 15900,19263-L19,Laboratory,C Programming ,F,08/25/2023,12/08/2023,1:30p,3:30p,SC 189,,
+CS 15900,19264-L20,Laboratory,C Programming ,W,08/23/2023,12/06/2023,3:30p,5:30p,HAMP 3144,,
+CS 15900,19271-L21,Laboratory,C Programming ,W,08/23/2023,12/06/2023,3:30p,5:30p,HAMP 3144,,
+CS 15900,19298-L22,Laboratory,C Programming ,W,08/23/2023,12/06/2023,11:30a,1:30p,SC 231,,
+CS 15900,19348-L23,Laboratory,C Programming ,W,08/23/2023,12/06/2023,11:30a,1:30p,SC 231,,
+CS 15900,23897-LE1,Lecture,C Programming ,TTh,08/22/2023,12/07/2023,8:30a,9:30a,BHEE 170,William N Crum,wcrum@purdue.edu
+CS 15900,23898-LE2,Lecture,C Programming ,TTh,08/22/2023,12/07/2023,9:30a,10:30a,BHEE 170,William N Crum,wcrum@purdue.edu
+CS 15900,23899-LE3,Lecture,C Programming ,TTh,08/22/2023,12/07/2023,12:30p,1:30p,BHEE 170,Eman Samy Ahmed Diyab,ediyab@purdue.edu
+CS 15900,23900-LE4,Lecture,C Programming ,TTh,08/22/2023,12/07/2023,11:30a,12:30p,BHEE 170,Eman Samy Ahmed Diyab,ediyab@purdue.edu
+CS 15900,23901-L01,Laboratory,C Programming ,W,08/23/2023,12/06/2023,9:30a,11:30a,SC 189,,
+CS 15900,23905-L02,Laboratory,C Programming ,W,08/23/2023,12/06/2023,3:30p,5:30p,SC 189,,
+CS 15900,23908-L03,Laboratory,C Programming ,W,08/23/2023,12/06/2023,3:30p,5:30p,WTHR 114,,
+CS 15900,23909-L04,Laboratory,C Programming ,W,08/23/2023,12/06/2023,7:30a,9:30a,SC 231,,
+CS 15900,23910-L05,Laboratory,C Programming ,W,08/23/2023,12/06/2023,7:30a,9:30a,SC 231,,
+CS 15900,23917-L07,Laboratory,C Programming ,W,08/23/2023,12/06/2023,7:30a,9:30a,SC 189,,
+CS 15900,23918-L08,Laboratory,C Programming ,F,08/25/2023,12/08/2023,9:30a,11:30a,SC G046,,
+CS 15900,23933-L09,Laboratory,C Programming ,Th,08/24/2023,12/07/2023,11:30a,1:30p,SC 189,,
+CS 15900,23934-L10,Laboratory,C Programming ,F,08/25/2023,12/08/2023,7:30a,9:30a,SC 231,,
+CS 15900,23939-L13,Laboratory,C Programming ,F,08/25/2023,12/08/2023,9:30a,11:30a,SC 189,,
+CS 15900,23940-L14,Laboratory,C Programming ,Th,08/24/2023,12/07/2023,9:30a,11:30a,LILY G428,,
+CS 15900,25579-L25,Laboratory,C Programming ,Th,08/24/2023,12/07/2023,3:30p,5:30p,SC 231,,
+CS 15900,27584-L11,Laboratory,C Programming ,F,08/25/2023,12/08/2023,7:30a,9:30a,SC 231,,
+CS 17600,10009-L05,Laboratory,Data Engineering In Python,W,08/23/2023,12/06/2023,9:30a,11:30a,LWSN B131,,
+CS 17600,10022-L06,Laboratory,Data Engineering In Python,T,08/22/2023,12/05/2023,11:30a,1:30p,LWSN B131,,
+CS 17600,10025-L07,Laboratory,Data Engineering In Python,T,08/22/2023,12/05/2023,9:30a,11:30a,LWSN B131,,
+CS 17600,10038-L08,Laboratory,Data Engineering In Python,Th,08/24/2023,12/07/2023,5:30p,7:30p,LWSN B131,,
+CS 17600,10045-L09,Laboratory,Data Engineering In Python,T,08/22/2023,12/05/2023,5:30p,7:30p,LWSN B131,,
+CS 17600,10049-L10,Laboratory,Data Engineering In Python,W,08/23/2023,12/06/2023,7:30p,9:30p,LWSN B131,,
+CS 17600,11998-LE1,Lecture,Data Engineering In Python,TTh,08/22/2023,12/07/2023,3:30p,4:30p,UC 114,Xiaojin Liu,liu218@purdue.edu
+CS 17600,12001-L01,Laboratory,Data Engineering In Python,Th,08/24/2023,12/07/2023,1:30p,3:30p,LWSN B131,,
+CS 17600,12002-L02,Laboratory,Data Engineering In Python,F,08/25/2023,12/08/2023,9:30a,11:30a,LWSN B131,,
+CS 17600,12004-L03,Laboratory,Data Engineering In Python,W,08/23/2023,12/06/2023,5:30p,7:30p,LWSN B131,,
+CS 17600,12009-L04,Laboratory,Data Engineering In Python,W,08/23/2023,12/06/2023,1:30p,3:30p,LWSN B131,,
+CS 17600,25234-001,Laboratory,Data Engineering In Python,T,08/22/2023,12/05/2023,7:30a,9:30a,LWSN B131,,
+CS 17700,10050-L10,Laboratory,Progrmng With MM Objs,Th,08/24/2023,12/07/2023,9:30a,11:30a,SC 277,,
+CS 17700,10054-L12,Laboratory,Progrmng With MM Objs,Th,08/24/2023,12/07/2023,9:30a,11:30a,MTHW 301,,
+CS 17700,10059-L13,Laboratory,Progrmng With MM Objs,Th,08/24/2023,12/07/2023,11:30a,1:30p,MTHW 301,,
+CS 17700,10061-L14,Laboratory,Progrmng With MM Objs,F,08/25/2023,12/08/2023,1:30p,3:30p,SC 277,,
+CS 17700,10063-L11,Laboratory,Progrmng With MM Objs,Th,08/24/2023,12/07/2023,1:30p,3:30p,SC 277,,
+CS 17700,10064-L04,Laboratory,Progrmng With MM Objs,Th,08/24/2023,12/07/2023,3:30p,5:30p,SC 277,,
+CS 17700,11553-L09,Laboratory,Progrmng With MM Objs,W,08/23/2023,12/06/2023,11:30a,1:30p,SC 277,,
+CS 17700,11676-L06,Laboratory,Progrmng With MM Objs,W,08/23/2023,12/06/2023,1:30p,3:30p,SC 277,,
+CS 17700,11677-L07,Laboratory,Progrmng With MM Objs,W,08/23/2023,12/06/2023,3:30p,5:30p,SC 277,,
+CS 17700,11690-L08,Laboratory,Progrmng With MM Objs,W,08/23/2023,12/06/2023,9:30a,11:30a,SC 277,,
+CS 17700,12470-L02,Laboratory,Progrmng With MM Objs,T,08/22/2023,12/05/2023,1:30p,3:30p,SC 289,,
+CS 17700,13109-R01,Recitation,Progrmng With MM Objs,F,08/25/2023,12/08/2023,12:30p,1:30p,WALC 2087,,
+CS 17700,13123-L01,Laboratory,Progrmng With MM Objs,T,08/22/2023,12/05/2023,3:30p,5:30p,SC 289,,
+CS 17700,13126-LE1,Lecture,Progrmng With MM Objs,TTh,08/22/2023,12/07/2023,12:30p,1:30p,PHYS 112,Andres M Bejarano Posada;Jessica Mackey Conner-Strunk,abejara@purdue.edu;jmconner@purdue.edu
+CS 17700,15483-LE2,Lecture,Progrmng With MM Objs,TTh,08/22/2023,12/07/2023,4:30p,5:30p,SMTH 108,Andres M Bejarano Posada;Jessica Mackey Conner-Strunk,abejara@purdue.edu;jmconner@purdue.edu
+CS 17700,23801-R03,Recitation,Progrmng With MM Objs,F,08/25/2023,12/08/2023,4:30p,5:30p,WALC B074,,
+CS 17700,23815-R04,Recitation,Progrmng With MM Objs,W,08/23/2023,12/06/2023,11:30a,12:30p,WALC B066,,
+CS 17700,23876-L03,Laboratory,Progrmng With MM Objs,W,08/23/2023,12/06/2023,11:30a,1:30p,SC 289,,
+CS 17700,23883-L05,Laboratory,Progrmng With MM Objs,F,08/25/2023,12/08/2023,3:30p,5:30p,SC 277,,
+CS 17700,58648-R02,Recitation,Progrmng With MM Objs,F,08/25/2023,12/08/2023,1:30p,2:30p,WALC B066,,
+CS 18000BLK,10102-L20,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,5:30p,7:30p,LWSN B146,,
+CS 18000BLK,10687-BLK,Lecture,Prob Solving & O-O Programming,MWF,08/21/2023,12/08/2023,9:30a,10:30a,CL50 224,George Bunch Adams III,gba@purdue.edu
+CS 18000BLK,10706-L01,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,9:30a,11:30a,LWSN B146,,
+CS 18000BLK,10716-L04,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,11:30a,1:30p,HAAS G056,,
+CS 18000BLK,10758-L06,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,5:30p,7:30p,HAAS G056,,
+CS 18000BLK,11812-L07,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,11:30a,1:30p,HAAS G056,,
+CS 18000BLK,12218-L15,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,11:30a,1:30p,LWSN B146,,
+CS 18000BLK,16988-L05,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,1:30p,3:30p,HAAS G056,,
+CS 18000BLK,22679-L08,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,9:30a,11:30a,HAAS G040,,
+CS 18000BLK,22680-L09,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,1:30p,3:30p,HAAS G056,,
+CS 18000BLK,22681-L10,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,11:30a,1:30p,LWSN B158,,
+CS 18000BLK,22682-L11,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,11:30a,1:30p,LWSN B146,,
+CS 18000BLK,22689-L12,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,5:30p,7:30p,HAAS G040,,
+CS 18000BLK,22692-L13,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,3:30p,5:30p,LWSN B158,,
+CS 18000BLK,23246-L14,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,3:30p,5:30p,LWSN B146,,
+CS 18000BLK,29926-L16,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,5:30p,7:30p,HAAS G056,,
+CS 18000BLK,29927-L17,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,3:30p,5:30p,HAAS 257,,
+CS 18000BLK,29928-L18,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,3:30p,5:30p,HAAS 257,,
+CS 18000BLK,29929-L19,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,11:30a,1:30p,HAAS G056,,
+CS 18000BLK,68871-L03,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,11:30a,1:30p,LWSN B146,,
+CS 18000BLK,68877-L02,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,1:30p,3:30p,LWSN B146,,
+CS 18000GLD,11720-L36,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,11:30a,1:30p,HAAS G056,,
+CS 18000GLD,26043-GLD,Lecture,Prob Solving & O-O Programming,MWF,08/21/2023,12/08/2023,3:30p,4:30p,BHEE 129,Hubert E Dunsmore,dunsmore@purdue.edu
+CS 18000GLD,26044-L22,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,11:30a,1:30p,LWSN B158,,
+CS 18000GLD,26045-L23,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,1:30p,3:30p,HAAS G040,,
+CS 18000GLD,26046-L24,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,11:30a,1:30p,LWSN B158,,
+CS 18000GLD,26047-L25,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,9:30a,11:30a,LWSN B148,,
+CS 18000GLD,26048-L26,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,1:30p,3:30p,HAAS G040,,
+CS 18000GLD,26049-L27,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,11:30a,1:30p,LWSN B146,,
+CS 18000GLD,26050-L28,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,5:30p,7:30p,LWSN B158,,
+CS 18000GLD,26051-L29,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,1:30p,3:30p,LWSN B146,,
+CS 18000GLD,26052-L30,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,1:30p,3:30p,LWSN B148,,
+CS 18000GLD,26053-L31,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,1:30p,3:30p,LWSN B158,,
+CS 18000GLD,26054-L32,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,11:30a,1:30p,HAAS G040,,
+CS 18000GLD,26055-L33,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,3:30p,5:30p,HAAS G040,,
+CS 18000GLD,26057-L34,Laboratory,Prob Solving & O-O Programming,W,08/23/2023,12/06/2023,9:30a,11:30a,LWSN B148,,
+CS 18000GLD,26058-L35,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,1:30p,3:30p,HAAS G056,,
+CS 18000GLD,29930-L37,Laboratory,Prob Solving & O-O Programming,Th,08/24/2023,12/07/2023,5:30p,7:30p,HAAS 257,,
+CS 18000GLD,29937-L38,Laboratory,Prob Solving & O-O Programming,T,08/22/2023,12/05/2023,9:30a,11:30a,HAAS 257,,
+CS 18000GLD,29938-L39,Laboratory,Prob Solving & O-O Programming,F,08/25/2023,12/08/2023,1:30p,3:30p,HAAS 257,,
+CS 18200,10152-P07,Pso,Foundations Of Comp Sc,F,08/25/2023,12/08/2023,8:30a,9:30a,WALC 3090,,
+CS 18200,11248-P03,Pso,Foundations Of Comp Sc,T,08/22/2023,12/05/2023,6:30p,7:30p,WALC 3090,,
+CS 18200,11351-P04,Pso,Foundations Of Comp Sc,W,08/23/2023,12/06/2023,6:30p,7:30p,SYNC ONLINE,,
+CS 18200,11352-P05,Pso,Foundations Of Comp Sc,Th,08/24/2023,12/07/2023,1:30p,2:30p,SYNC ONLINE,,
+CS 18200,11739-P06,Pso,Foundations Of Comp Sc,Th,08/24/2023,12/07/2023,10:30a,11:30a,SYNC ONLINE,,
+CS 18200,13146-LE1,Lecture,Foundations Of Comp Sc,MWF,08/21/2023,12/08/2023,12:30p,1:30p,CL50 224,George Bunch Adams III;Anuran Makur,gba@purdue.edu
+CS 18200,13148-P02,Pso,Foundations Of Comp Sc,T,08/22/2023,12/05/2023,7:30p,8:30p,WALC 3090,,
+CS 18200,13149-P01,Pso,Foundations Of Comp Sc,F,08/25/2023,12/08/2023,9:30a,10:30a,WALC 3090,,
+CS 19300,10751-P16,Pso,Tools,F,08/25/2023,12/08/2023,12:30p,1:30p,SYNC ONLINE,,
+CS 19300,10757-P15,Pso,Tools,F,08/25/2023,12/08/2023,2:30p,3:30p,SYNC ONLINE,,
+CS 19300,10779-P17,Pso,Tools,F,08/25/2023,12/08/2023,8:30a,9:30a,SYNC ONLINE,,
+CS 19300,10802-P18,Pso,Tools,F,08/25/2023,12/08/2023,10:30a,11:30a,SYNC ONLINE,,
+CS 19300,10805-P19,Pso,Tools,F,08/25/2023,12/08/2023,1:30p,2:30p,SYNC ONLINE,,
+CS 19300,10817-P20,Pso,Tools,Th,08/24/2023,12/07/2023,6:30p,7:30p,SYNC ONLINE,,
+CS 19300,21309-P09,Pso,Tools,W,08/23/2023,12/06/2023,2:30p,3:30p,SYNC ONLINE,,
+CS 19300,21313-P13,Pso,Tools,Th,08/24/2023,12/07/2023,3:30p,4:30p,SYNC ONLINE,,
+CS 19300,24529-LE1,Lecture,Tools,T,08/22/2023,12/05/2023,5:30p,6:30p,PHYS 112,Tae Woo Kim;Arman Kumar,kim3434@purdue.edu;kumar538@purdue.edu
+CS 19300,24530-LE2,Lecture,Tools,T,08/22/2023,12/05/2023,6:30p,7:30p,PHYS 112,Tae Woo Kim;Jagannath Prabhakaran,kim3434@purdue.edu;jprabhak@purdue.edu
+CS 19300,24531-LE3,Lecture,Tools,Th,08/24/2023,12/07/2023,9:30a,10:30a,LILY G126,Arman Kumar;Shruti Sharma,kumar538@purdue.edu;sharm667@purdue.edu
+CS 19300,24532-LE4,Lecture,Tools,Th,08/24/2023,12/07/2023,5:30p,6:30p,UC 114,Jagannath Prabhakaran;Shruti Sharma,jprabhak@purdue.edu;sharm667@purdue.edu
+CS 19300,24533-P01,Pso,Tools,Th,08/24/2023,12/07/2023,6:30p,7:30p,SYNC ONLINE,,
+CS 19300,24535-P02,Pso,Tools,W,08/23/2023,12/06/2023,1:30p,2:30p,SYNC ONLINE,,
+CS 19300,24536-P04,Pso,Tools,F,08/25/2023,12/08/2023,11:30a,12:30p,SYNC ONLINE,,
+CS 19300,24537-P05,Pso,Tools,Th,08/24/2023,12/07/2023,1:30p,2:30p,SYNC ONLINE,,
+CS 19300,24538-P07,Pso,Tools,Th,08/24/2023,12/07/2023,11:30a,12:30p,SYNC ONLINE,,
+CS 19300,24539-P08,Pso,Tools,F,08/25/2023,12/08/2023,2:30p,3:30p,SYNC ONLINE,,
+CS 19300,24540-P11,Pso,Tools,Th,08/24/2023,12/07/2023,6:30p,7:30p,SYNC ONLINE,,
+CS 19300,24541-P12,Pso,Tools,Th,08/24/2023,12/07/2023,8:30a,9:30a,SYNC ONLINE,,
+CS 19300,30156-P03,Pso,Tools,W,08/23/2023,12/06/2023,2:30p,3:30p,SYNC ONLINE,,
+CS 19300,30157-P06,Pso,Tools,Th,08/24/2023,12/07/2023,3:30p,4:30p,SYNC ONLINE,,
+CS 19300,30158-P10,Pso,Tools,Th,08/24/2023,12/07/2023,6:30p,7:30p,SYNC ONLINE,,
+CS 19300,30159-P14,Pso,Tools,F,08/25/2023,12/08/2023,10:30a,11:30a,SYNC ONLINE,,
+CS 21100,22931-CP1,Lecture,Competitive Programming I ,Th,08/24/2023,12/10/2023,6:00p,8:00p,LWSN 1142,Ethan William Dickey,dickeye@purdue.edu
+CS 23500,12100-L03,Laboratory,Intro Organizatnl Comp,T,08/22/2023,12/05/2023,1:30p,3:30p,SC G046,,
+CS 23500,12195-L01,Laboratory,Intro Organizatnl Comp,F,08/25/2023,12/08/2023,9:30a,11:30a,SC 277,,
+CS 23500,12637-L11,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,1:30p,3:30p,WTHR 212,,
+CS 23500,12654-L12,Laboratory,Intro Organizatnl Comp,T,08/22/2023,12/05/2023,3:30p,5:30p,MTHW 301,,
+CS 23500,12664-L13,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,9:30a,11:30a,MTHW 301,,
+CS 23500,12667-L14,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,11:30a,1:30p,MTHW 301,,
+CS 23500,12668-L15,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,1:30p,3:30p,MTHW 301,,
+CS 23500,12671-L16,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,3:30p,5:30p,MTHW 301,,
+CS 23500,12672-L17,Laboratory,Intro Organizatnl Comp,F,08/25/2023,12/08/2023,11:30a,1:30p,SC 277,,
+CS 23500,12675-L18,Laboratory,Intro Organizatnl Comp,Th,08/24/2023,12/07/2023,1:30p,3:30p,MTHW 301,,
+CS 23500,12677-L19,Laboratory,Intro Organizatnl Comp,Th,08/24/2023,12/07/2023,3:30p,5:30p,MTHW 301,,
+CS 23500,12684-L20,Laboratory,Intro Organizatnl Comp,F,08/25/2023,12/08/2023,1:30p,3:30p,MTHW 301,,
+CS 23500,13168-LE1,Lecture,Intro Organizatnl Comp,TTh,08/22/2023,12/07/2023,12:30p,1:30p,SC 239,Marta Annette Crowe,crowe@purdue.edu
+CS 23500,13189-L02,Laboratory,Intro Organizatnl Comp,T,08/22/2023,12/05/2023,3:30p,5:30p,SC G046,,
+CS 23500,16490-001,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,3:30p,5:30p,SC G046,,
+CS 23500,16491-002,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,1:30p,3:30p,RHPH 316,,
+CS 23500,16492-003,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,3:30p,5:30p,RHPH 316,,
+CS 23500,16493-004,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,11:30a,1:30p,SC G046,,
+CS 23500,16494-005,Laboratory,Intro Organizatnl Comp,W,08/23/2023,12/06/2023,1:30p,3:30p,SC G046,,
+CS 23500,58437-LE2,Lecture,Intro Organizatnl Comp,TTh,08/22/2023,12/07/2023,9:30a,10:30a,LILY 1105,Marta Annette Crowe,crowe@purdue.edu
+CS 24000,10167-L16,Laboratory,Programming In C,T,08/22/2023,12/05/2023,3:30p,5:30p,HAAS 257,,
+CS 24000,11314-L06,Laboratory,Programming In C,W,08/23/2023,12/06/2023,1:30p,3:30p,HAAS G040,,
+CS 24000,11356-L07,Laboratory,Programming In C,T,08/22/2023,12/05/2023,1:30p,3:30p,HAAS G040,,
+CS 24000,11358-L08,Laboratory,Programming In C,T,08/22/2023,12/05/2023,9:30a,11:30a,LWSN B158,,
+CS 24000,11359-L09,Laboratory,Programming In C,T,08/22/2023,12/05/2023,9:30a,11:30a,HAAS G040,,
+CS 24000,11360-L10,Laboratory,Programming In C,W,08/23/2023,12/06/2023,9:30a,11:30a,LWSN B146,,
+CS 24000,11362-L11,Laboratory,Programming In C,T,08/22/2023,12/05/2023,3:30p,5:30p,HAAS G056,,
+CS 24000,11364-L12,Laboratory,Programming In C,Th,08/24/2023,12/07/2023,1:30p,3:30p,HAAS 257,,
+CS 24000,11743-L13,Laboratory,Programming In C,T,08/22/2023,12/05/2023,11:30a,1:30p,HAAS 257,,
+CS 24000,11749-L14,Laboratory,Programming In C,Th,08/24/2023,12/07/2023,1:30p,3:30p,LWSN B158,,
+CS 24000,11763-L15,Laboratory,Programming In C,W,08/23/2023,12/06/2023,11:30a,1:30p,HAAS 257,,
+CS 24000,12196-L01,Laboratory,Programming In C,T,08/22/2023,12/05/2023,11:30a,1:30p,HAAS G040,,
+CS 24000,14268-L05,Laboratory,Programming In C,F,08/25/2023,12/08/2023,1:30p,3:30p,LWSN B158,,
+CS 24000,45910-L03,Laboratory,Programming In C,W,08/23/2023,12/06/2023,3:30p,5:30p,LWSN B146,,
+CS 24000,48987-L02,Laboratory,Programming In C,F,08/25/2023,12/08/2023,9:30a,11:30a,HAAS G040,,
+CS 24000,51076-LE1,Lecture,Programming In C,TTh,08/22/2023,12/07/2023,5:30p,6:30p,WTHR 200,Suresh Jagannathan,suresh@cs.purdue.edu
+CS 24000,51078-L04,Laboratory,Programming In C,F,08/25/2023,12/08/2023,9:30a,11:30a,LWSN B146,,
+CS 25000,10203-L17,Laboratory,Computer Architecture,W,08/23/2023,12/06/2023,3:30p,5:30p,LWSN B148,,
+CS 25000,10205-L18,Laboratory,Computer Architecture,W,08/23/2023,12/06/2023,1:30p,3:30p,LWSN B160,,
+CS 25000,10206-L19,Laboratory,Computer Architecture,Th,08/24/2023,12/07/2023,1:30p,3:30p,LWSN B160,,
+CS 25000,10215-L20,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,1:30p,3:30p,LWSN B148,,
+CS 25000,10216-L21,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,5:30p,7:30p,LWSN B160,,
+CS 25000,10217-L22,Laboratory,Computer Architecture,F,08/25/2023,12/08/2023,1:30p,3:30p,LWSN B160,,
+CS 25000,10378-L05,Laboratory,Computer Architecture,W,08/23/2023,12/06/2023,11:30a,1:30p,LWSN B160,,
+CS 25000,11774-L06,Laboratory,Computer Architecture,W,08/23/2023,12/06/2023,3:30p,5:30p,LWSN B160,,
+CS 25000,11827-L07,Laboratory,Computer Architecture,F,08/25/2023,12/08/2023,11:30a,1:30p,LWSN B160,,
+CS 25000,11853-L08,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,3:30p,5:30p,LWSN B148,,
+CS 25000,11876-L09,Laboratory,Computer Architecture,Th,08/24/2023,12/07/2023,9:30a,11:30a,LWSN B160,,
+CS 25000,11889-L10,Laboratory,Computer Architecture,Th,08/24/2023,12/07/2023,11:30a,1:30p,LWSN B160,,
+CS 25000,11891-L11,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,11:30a,1:30p,LWSN B160,,
+CS 25000,11961-LE2,Lecture,Computer Architecture,MWF,08/21/2023,12/08/2023,6:30p,7:30p,WALC 1055 (Hiler Thtr),Gustavo Rodriguez-Rivera,grr@purdue.edu
+CS 25000,11963-L12,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,3:30p,5:30p,LWSN B160,,
+CS 25000,11964-L13,Laboratory,Computer Architecture,F,08/25/2023,12/08/2023,9:30a,11:30a,LWSN B160,,
+CS 25000,12200-L02,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,1:30p,3:30p,LWSN B160,,
+CS 25000,12201-L01,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,5:30p,7:30p,LWSN B148,,
+CS 25000,13209-LE1,Lecture,Computer Architecture,MWF,08/21/2023,12/08/2023,5:30p,6:30p,WALC 1055 (Hiler Thtr),Gustavo Rodriguez-Rivera,grr@purdue.edu
+CS 25000,17256-L03,Laboratory,Computer Architecture,W,08/23/2023,12/06/2023,9:30a,11:30a,LWSN B160,,
+CS 25000,18274-L04,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,11:30a,1:30p,LWSN B148,,
+CS 25000,23695-001,Laboratory,Computer Architecture,F,08/25/2023,12/08/2023,11:30a,1:30p,LWSN B148,,
+CS 25000,23696-002,Laboratory,Computer Architecture,Th,08/24/2023,12/07/2023,1:30p,3:30p,LWSN B148,,
+CS 25000,24292-003,Laboratory,Computer Architecture,F,08/25/2023,12/08/2023,1:30p,3:30p,LWSN B148,,
+CS 25000,24296-004,Laboratory,Computer Architecture,W,08/23/2023,12/06/2023,11:30a,1:30p,LWSN B148,,
+CS 25000,25485-L14,Laboratory,Computer Architecture,Th,08/24/2023,12/07/2023,3:30p,5:30p,LWSN B160,,
+CS 25000,25492-L16,Laboratory,Computer Architecture,Th,08/24/2023,12/07/2023,5:30p,7:30p,LWSN B160,,
+CS 25000,25493-L15,Laboratory,Computer Architecture,T,08/22/2023,12/05/2023,9:30a,11:30a,LWSN B160,,
+CS 25100,10220-P19,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,10:30a,11:30a,LWSN B158,,
+CS 25100,10234-P20,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,3:30p,4:30p,HAAS G040,,
+CS 25100,10240-P21,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,8:30a,9:30a,LWSN B146,,
+CS 25100,10248-P22,Pso,Data Structures And Algorithms,W,08/23/2023,12/06/2023,10:30a,11:30a,HAAS G056,,
+CS 25100,10250-P23,Pso,Data Structures And Algorithms,T,08/22/2023,12/05/2023,2:30p,3:30p,LWSN B146,,
+CS 25100,10253-P24,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,1:30p,2:30p,LWSN B146,,
+CS 25100,10256-P25,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,6:30p,7:30p,LWSN B146,,
+CS 25100,10257-P26,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,3:30p,4:30p,LWSN B146,,
+CS 25100,10262-P27,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,9:30a,10:30a,LWSN B158,,
+CS 25100,10268-P28,Pso,Data Structures And Algorithms,T,08/22/2023,12/05/2023,5:30p,6:30p,HAAS G040,,
+CS 25100,12283-LE1,Lecture,Data Structures And Algorithms,MWF,08/21/2023,12/08/2023,5:30p,6:30p,BHEE 129,Sarah H Sellke,ssellke@purdue.edu
+CS 25100,12889-P01,Pso,Data Structures And Algorithms,W,08/23/2023,12/06/2023,10:30a,11:30a,HAAS G040,,
+CS 25100,12890-P02,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,11:30a,12:30p,HAAS G040,,
+CS 25100,12891-P03,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,8:30a,9:30a,HAAS G040,,
+CS 25100,12892-P04,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,4:30p,5:30p,HAAS G056,,
+CS 25100,12894-P05,Pso,Data Structures And Algorithms,W,08/23/2023,12/06/2023,9:30a,10:30a,HAAS G056,,
+CS 25100,12895-P06,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,8:30a,9:30a,HAAS G056,,
+CS 25100,12897-P07,Pso,Data Structures And Algorithms,T,08/22/2023,12/05/2023,9:30a,10:30a,HAAS G056,,
+CS 25100,18334-P15,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,8:30a,9:30a,LWSN B146,,
+CS 25100,18335-P16,Pso,Data Structures And Algorithms,W,08/23/2023,12/06/2023,10:30a,11:30a,LWSN B158,,
+CS 25100,21317-P17,Pso,Data Structures And Algorithms,T,08/22/2023,12/05/2023,8:30a,9:30a,LWSN B158,,
+CS 25100,21318-P18,Pso,Data Structures And Algorithms,W,08/23/2023,12/06/2023,8:30a,9:30a,HAAS G056,,
+CS 25100,26787-LE2,Lecture,Data Structures And Algorithms,MWF,08/21/2023,12/08/2023,6:30p,7:30p,BHEE 129,Sarah H Sellke,ssellke@purdue.edu
+CS 25100,26788-P08,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,5:30p,6:30p,LWSN B146,,
+CS 25100,26789-P09,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,9:30a,10:30a,LWSN B146,,
+CS 25100,26790-P10,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,8:30a,9:30a,LWSN B158,,
+CS 25100,26791-P11,Pso,Data Structures And Algorithms,W,08/23/2023,12/06/2023,9:30a,10:30a,LWSN B158,,
+CS 25100,26792-P12,Pso,Data Structures And Algorithms,F,08/25/2023,12/08/2023,3:30p,4:30p,HAAS G056,,
+CS 25100,26793-P13,Pso,Data Structures And Algorithms,Th,08/24/2023,12/07/2023,2:30p,3:30p,LWSN B146,,
+CS 25100,26794-P14,Pso,Data Structures And Algorithms,T,08/22/2023,12/05/2023,10:30a,11:30a,HAAS G056,,
+CS 25200,11384-L06,Laboratory,Systems Programming,Th,08/24/2023,12/07/2023,1:30p,3:30p,HAAS G056,,
+CS 25200,11387-L07,Laboratory,Systems Programming,Th,08/24/2023,12/07/2023,9:30a,11:30a,LWSN B158,,
+CS 25200,11389-L08,Laboratory,Systems Programming,W,08/23/2023,12/06/2023,11:30a,1:30p,HAAS G040,,
+CS 25200,11974-L09,Laboratory,Systems Programming,W,08/23/2023,12/06/2023,5:30p,7:30p,LWSN B146,,
+CS 25200,12284-L01,Laboratory,Systems Programming,Th,08/24/2023,12/07/2023,11:30a,1:30p,LWSN B158,,
+CS 25200,15226-L03,Laboratory,Systems Programming,Th,08/24/2023,12/07/2023,9:30a,11:30a,HAAS G056,,
+CS 25200,15229-L04,Laboratory,Systems Programming,T,08/22/2023,12/05/2023,3:30p,5:30p,LWSN B158,,
+CS 25200,15284-L05,Laboratory,Systems Programming,T,08/22/2023,12/05/2023,1:30p,3:30p,LWSN B158,,
+CS 25200,54202-L02,Laboratory,Systems Programming,W,08/23/2023,12/06/2023,3:30p,5:30p,HAAS G056,,
+CS 25200,64662-LE1,Lecture,Systems Programming,MWF,08/21/2023,12/08/2023,1:30p,2:30p,UC 114,Jeffrey A Turkstra,jeff@purdue.edu
+CS 29000AI,10832-AIB,Lecture,AI Basics,MW,08/21/2023,12/06/2023,3:30p,4:30p,LWSN 1106,Yexiang Xue,yexiang@purdue.edu
+CS 29000AI,10835-L01,Laboratory,AI Basics,F,08/25/2023,12/08/2023,9:30a,11:30a,HAAS G056,,
+CS 29000AI,10837-L02,Laboratory,AI Basics,Th,08/24/2023,12/07/2023,3:30p,5:30p,HAAS G056,,
+CS 29100,68697-LE1,Lecture,Soph Developmt Seminar,W,08/23/2023,12/06/2023,11:30a,12:30p,WALC 1018,Sally L Luzader,luzaders@purdue.edu
+CS 30700,52675-LE1,Lecture,Software Engineerng I,MWF,08/21/2023,12/08/2023,11:30a,12:30p,FRNY G140,Jeffrey A Turkstra,jeff@purdue.edu
+CS 31100,22932-CP2,Lecture,Competitive Programming II ,Th,08/24/2023,12/10/2023,6:00p,8:00p,LWSN B151,Zhongtang Luo,zhtluo@purdue.edu
+CS 31400,67279-LE1,Lecture,Numerical Methods,TTh,08/22/2023,12/07/2023,9:00a,10:30a,WTHR 104,Ananth Y Grama,ayg@purdue.edu
+CS 34800,26857-LE1,Lecture,Information Systems,TTh,08/22/2023,12/07/2023,1:30p,3:00p,FRNY G140,Hisham Ramadan Benotman,hbenotma@purdue.edu
+CS 34800,26858-P01,Pso,Information Systems,Th,08/24/2023,12/07/2023,3:30p,4:30p,HAAS G050,,
+CS 34800,26866-P02,Pso,Information Systems,Th,08/24/2023,12/07/2023,12:30p,1:30p,HAAS G050,,
+CS 34800,26867-P03,Pso,Information Systems,T,08/22/2023,12/05/2023,10:30a,11:30a,HAAS G050,,
+CS 34800,26868-P04,Pso,Information Systems,T,08/22/2023,12/05/2023,9:30a,10:30a,HAAS G050,,
+CS 34800,26869-P05,Pso,Information Systems,W,08/23/2023,12/06/2023,4:30p,5:30p,HAAS G050,,
+CS 34800,26870-P06,Pso,Information Systems,Th,08/24/2023,12/07/2023,10:30a,11:30a,HAAS G050,,
+CS 34800,26871-P07,Pso,Information Systems,W,08/23/2023,12/06/2023,2:30p,3:30p,HAAS G050,,
+CS 35200,15451-LE1,Lecture,Compilers Prin & Pract,MWF,08/21/2023,12/08/2023,11:30a,12:30p,SC 239,Changhee Jung,chjung@purdue.edu
+CS 35200,15454-P01,Pso,Compilers Prin & Pract,T,08/22/2023,12/05/2023,6:30p,7:30p,HAAS G040,,
+CS 35200,15456-P02,Pso,Compilers Prin & Pract,W,08/23/2023,12/06/2023,8:30a,9:30a,HAAS G040,,
+CS 35200,25443-P03,Pso,Compilers Prin & Pract,Th,08/24/2023,12/07/2023,1:30p,2:30p,SYNC ONLINE,,
+CS 35400,10394-P06,Pso,Operating Systems,W,08/23/2023,12/06/2023,10:30a,11:30a,HAAS 257,,
+CS 35400,10395-P07,Pso,Operating Systems,W,08/23/2023,12/06/2023,6:30p,7:30p,HAAS 257,,
+CS 35400,10397-P08,Pso,Operating Systems,W,08/23/2023,12/06/2023,1:30p,2:30p,HAAS 257,,
+CS 35400,10399-P09,Pso,Operating Systems,W,08/23/2023,12/06/2023,5:30p,6:30p,HAAS 257,,
+CS 35400,10400-P10,Pso,Operating Systems,Th,08/24/2023,12/07/2023,9:30a,10:30a,HAAS 257,,
+CS 35400,11462-P04,Pso,Operating Systems,T,08/22/2023,12/05/2023,1:30p,2:30p,HAAS 257,,
+CS 35400,12381-P03,Pso,Operating Systems,Th,08/24/2023,12/07/2023,10:30a,11:30a,HAAS 257,,
+CS 35400,13241-LE1,Lecture,Operating Systems,MWF,08/21/2023,12/08/2023,4:30p,5:30p,SMTH 108,Kihong Park,park0@purdue.edu
+CS 35400,13243-P01,Pso,Operating Systems,F,08/25/2023,12/08/2023,9:30a,10:30a,HAAS 257,,
+CS 35400,16090-P05,Pso,Operating Systems,T,08/22/2023,12/05/2023,2:30p,3:30p,HAAS 257,,
+CS 35400,52686-P02,Pso,Operating Systems,F,08/25/2023,12/08/2023,10:30a,11:30a,HAAS 257,,
+CS 35500,13246-LE1,Lecture,Intro To Cryptography,TTh,08/22/2023,12/07/2023,3:00p,4:30p,SMTH 118,Vasileios Zikas,vzikas@purdue.edu
+CS 37300,11717-LE1,Lecture,Data Mining & Machine Learning,MWF,08/21/2023,12/08/2023,9:30a,10:30a,MATH 175,Tianyi Zhang,tianyi@purdue.edu
+CS 37300,11986-LE2,Lecture,Data Mining & Machine Learning,MWF,08/21/2023,12/08/2023,12:30p,1:30p,WTHR 172,Rajiv Ashu Khanna,rajivak@purdue.edu
+CS 38003,11277-LE2,Distance Learning (Hybrid),Python Programming,,08/21/2023,12/10/2023,,,ASYNC ONLINE,Sai Lakshminarayanan Balakrishnan,balakri3@purdue.edu
+CS 38003,11280-P06,Pso (Hybrid),Python Programming,T,10/31/2023,11/28/2023,5:30p,6:30p,HAMP 3144,,
+CS 38003,11333-P08,Pso (Hybrid),Python Programming,W,10/25/2023,12/10/2023,10:30a,11:30a,HAAS G050,,
+CS 38003,11343-P07,Pso (Hybrid),Python Programming,Th,10/26/2023,12/10/2023,2:30p,3:30p,SYNC ONLINE,,
+CS 38003,11344-LE1,Distance Learning (Hybrid),Python Programming,,08/21/2023,12/10/2023,,,,Sai Lakshminarayanan Balakrishnan,balakri3@purdue.edu
+CS 38003,11345-P01,Pso (Hybrid),Python Programming,T,08/22/2023,09/19/2023,5:30p,6:30p,HAMP 3144,,
+CS 38100,10291-LE2,Lecture,Intro Analysis Algor,TTh,08/22/2023,12/07/2023,3:00p,4:30p,ARMS 1010,Elena Grigorescu,elena-g@purdue.edu
+CS 38100,11459-P02,Pso,Intro Analysis Algor,F,08/25/2023,12/08/2023,1:30p,2:30p,WALC 3122,,
+CS 38100,11466-P03,Pso,Intro Analysis Algor,W,08/23/2023,12/06/2023,10:30a,11:30a,SYNC ONLINE,,
+CS 38100,13247-LE1,Lecture,Intro Analysis Algor,TTh,08/22/2023,12/07/2023,9:00a,10:30a,KRAN 140,Christos Alexandros Psomas,apsomas@purdue.edu
+CS 38100,16352-P01,Pso,Intro Analysis Algor,T,08/22/2023,12/05/2023,6:30p,7:30p,WALC 3154,,
+CS 38100,26852-P04,Pso,Intro Analysis Algor,Th,08/24/2023,12/07/2023,6:30p,7:30p,WALC 3154,,
+CS 38100,26873-P05,Pso,Intro Analysis Algor,W,08/23/2023,12/06/2023,2:30p,3:30p,WALC 3122,,
+CS 38100,26874-P06,Pso,Intro Analysis Algor,F,08/25/2023,12/08/2023,10:30a,11:30a,SYNC ONLINE,,
+CS 39000ATA,11800-ATA,Lecture,Advanced Topics In Algorithms,TTh,08/22/2023,12/07/2023,3:00p,4:30p,GRIS 133,Paul Valiant,pvaliant@purdue.edu
+CS 39000GIS,29603-GIS,Lecture,Great Issues In Computer Sci,MWF,08/21/2023,12/08/2023,10:30a,11:30a,LWSN B155,Zeynel Berkay Celik,zcelik@purdue.edu
+CS 39000WAP,26036-WAP,Lecture,Web Application Development,MW,08/21/2023,12/06/2023,5:30p,6:30p,WALC 1121,Mikail H Khan;Jinen Latish Setpal,khan348@purdue.edu;jsetpal@purdue.edu
+CS 39000WAP,26037-P01,Pso,Web Application Development,T,08/22/2023,12/05/2023,5:30p,6:30p,WALC 1132,Mikail H Khan;Jinen Latish Setpal,khan348@purdue.edu;jsetpal@purdue.edu
+CS 39700,13251-H01,Lecture,Honors Seminar,F,08/25/2023,12/08/2023,10:30a,11:30a,LWSN B134,Antonio Bianchi,
+CS 40800,11423-LE1,Lecture,Software Testing,TTh,08/22/2023,12/07/2023,10:30a,noon,LILY G126,Lin Tan,lintan@purdue.edu
+CS 42200,21547-P01,Pso,Computer Networks,Th,08/24/2023,12/07/2023,11:30a,12:30p,HAAS G050,,
+CS 42200,21548-LE1,Lecture,Computer Networks,TTh,08/22/2023,12/07/2023,6:30p,8:00p,LWSN B155,Muhammad Shahbaz,mshahbaz@purdue.edu
+CS 42200,21549-P02,Pso,Computer Networks,W,08/23/2023,12/06/2023,1:30p,2:30p,HAAS G050,,
+CS 42600,26875-LE1,Lecture,Computer Security,MWF,08/21/2023,12/08/2023,9:30a,10:30a,RHPH 164,Mohammadkazem Taram,kazem@purdue.edu
+CS 43900,11988-LE1,Lecture,Intro To Data Visualization ,TTh,08/22/2023,12/07/2023,1:30p,3:00p,GRIS 133,Xavier Michel Tricoche,xmt@purdue.edu
+CS 44000,11987-LE1,Lecture,Large Scale Data Analytics,MW,08/21/2023,12/06/2023,2:30p,3:30p,WTHR 104,Jianguo Wang,csjgwang@purdue.edu
+CS 44000,16126-L01,Laboratory,Large Scale Data Analytics,Th,08/24/2023,12/07/2023,11:30a,1:30p,LWSN B148,,
+CS 44000,16127-L02,Laboratory,Large Scale Data Analytics,Th,08/24/2023,12/07/2023,3:30p,5:30p,LWSN B148,,
+CS 44000,16128-L03,Laboratory,Large Scale Data Analytics,W,08/23/2023,12/06/2023,5:30p,7:30p,LWSN B148,,
+CS 44000,16131-L04,Laboratory,Large Scale Data Analytics,T,08/22/2023,12/05/2023,9:30a,11:30a,LWSN B148,,
+CS 44000,25606-L05,Laboratory,Large Scale Data Analytics,Th,08/24/2023,12/07/2023,9:30a,11:30a,LWSN B148,,
+CS 44800,11745-P03,Pso,Intro Relational Db Sy,W,08/23/2023,12/06/2023,9:30a,10:30a,HAAS G050,,
+CS 44800,12039-P04,Pso,Intro Relational Db Sy,F,08/25/2023,12/08/2023,11:30a,12:30p,HAAS G050,,
+CS 44800,19622-P01,Pso,Intro Relational Db Sy,Th,08/24/2023,12/07/2023,1:30p,2:30p,HAAS G050,,
+CS 44800,19624-LE1,Lecture,Intro Relational Db Sy,TTh,08/22/2023,12/07/2023,9:00a,10:30a,LWSN B155,Elisa Bertino,bertino@purdue.edu
+CS 47100,11746-LE1,Lecture,Intr To Artifcl Intlgn,TTh,08/22/2023,12/07/2023,6:00p,7:30p,WALC 1018,Raymond A Yeh,rayyeh@purdue.edu
+CS 47300,12510-LE1,Lecture,Web Info Search & Management ,TTh,08/22/2023,12/07/2023,4:30p,6:00p,WALC 2087,Hisham Ramadan Benotman,hbenotma@purdue.edu
+CS 49000DSC,13374-DSC,Lecture,Data Science Capstone,MWF,08/21/2023,12/08/2023,12:30p,1:30p,GRIS 102,Anthony David Bergstrom,bgstm@purdue.edu
+CS 49000ROB,11997-ROB,Lecture,Introductions To Robotics,TTh,08/22/2023,12/07/2023,10:30a,noon,GRIS 133,Ahmed Qureshi,ahqureshi@purdue.edu
+CS 49000SWS,16146-SWS,Lecture,Software Security,TTh,08/22/2023,12/07/2023,3:00p,4:30p,LWSN B134,Antonio Bianchi,
+CS 50100,10781-LE1,Lecture,Computing For Sci And Engrng,MWF,08/21/2023,12/08/2023,11:30a,12:30p,KNOY B033,Vernon J Rego,rego@purdue.edu
+CS 50200,13216-LE1,Lecture,Compil & Progr Systms,TTh,08/22/2023,12/07/2023,3:00p,4:30p,LWSN B151,Tiark Rompf,
+CS 50300,12014-LE1,Lecture,Operating Systems,TTh,08/22/2023,12/07/2023,10:30a,noon,LILY G420,Pedro Jose Sousa Da Fonseca,pfonseca@purdue.edu
+CS 50300,12015-P01,Pso,Operating Systems,W,08/23/2023,12/06/2023,2:30p,3:30p,HAAS 257,,
+CS 50300,12016-P02,Pso,Operating Systems,F,08/25/2023,12/08/2023,11:30a,12:30p,HAAS 257,,
+CS 50300,20731-P03,Pso,Operating Systems,W,08/23/2023,12/06/2023,9:30a,10:30a,HAAS 257,,
+CS 51000,23703-001,Lecture,Software Engineering,MW,08/21/2023,12/06/2023,4:30p,6:00p,ARMS 1109,Xiangyu Zhang,xyzhang@purdue.edu
+CS 51500,11599-LE1,Lecture,Numerical Linear Algeb,TTh,08/22/2023,12/07/2023,1:30p,3:00p,HAMP 2123,David F Gleich,dgleich@purdue.edu
+CS 52600,28807-A01,Distance Learning (Purdue Online),Information Security,,08/21/2023,12/10/2023,,,ASYNC ONLINE,Christina L Garman,clg@purdue.edu
+CS 52600,46101-LE1,Lecture,Information Security,MWF,08/21/2023,12/08/2023,11:30a,12:30p,KRAN G016,Christina L Garman,clg@purdue.edu
+CS 52900,11488-A01,Distance Learning (Purdue Online),Security Analytics,,08/21/2023,12/10/2023,,,,Wenbo Guo,henrygwb@purdue.edu
+CS 52900,13240-LE1,Lecture,Security Analytics,TTh,08/22/2023,12/07/2023,1:30p,3:00p,LWSN B151,Wenbo Guo,henrygwb@purdue.edu
+CS 53500,37412-LE1,Lecture,Interact Comptr Graph,MWF,08/21/2023,12/08/2023,10:30a,11:30a,LWSN 1106,Voicu S Popescu,popescu@purdue.edu
+CS 53600,13281-LE1,Lecture,Data Comm & Comp Netwk,TTh,08/22/2023,12/07/2023,4:30p,6:00p,HIKS G980D,Chunyi Peng,chunyi@purdue.edu
+CS 53600,14323-P02,Pso,Data Comm & Comp Netwk,W,08/23/2023,12/06/2023,11:30a,12:30p,HAAS G050,,
+CS 53600,14324-P01,Pso,Data Comm & Comp Netwk,T,08/22/2023,12/05/2023,1:30p,2:30p,SYNC ONLINE,,
+CS 53600,29408-P04,Pso,Data Comm & Comp Netwk,F,08/25/2023,12/08/2023,9:30a,10:30a,HAAS G050,,
+CS 54100,10857-LE1,Lecture,Database Systems,MWF,08/21/2023,12/08/2023,12:30p,1:30p,LWSN B155,Walid G Aref,aref@cs.purdue.edu
+CS 54200,11658-LE1,Lecture,Distrib Database Systs,TTh,08/22/2023,12/07/2023,9:00a,10:30a,LWSN 1106,Bharat Kumar Bhargava,bbshail@purdue.edu
+CS 55100,10307-CLC,Lecture,Cloud Computing Fundamentals,TTh,08/22/2023,12/07/2023,4:30p,6:00p,LWSN B155,Douglas E Comer,comer@cs.purdue.edu
+CS 55500,12526-LE1,Lecture,Cryptography,MWF,08/21/2023,12/08/2023,10:30a,11:30a,WALC 3154,Hemanta K Maji,hmaji@purdue.edu
+CS 56000,12065-LE1,Lecture,Reasoning About Programs,MWF,08/21/2023,12/08/2023,12:30p,1:30p,LWSN 1106,Benjamin James Delaware,bendy@purdue.edu
+CS 57100,11993-LE1,Lecture,Artificial Intelligence,MWF,08/21/2023,12/08/2023,1:30p,2:30p,SC 239,Brian Anderson Bullins,
+CS 57300,11534-LE1,Lecture,Data Mining,MWF,08/21/2023,12/08/2023,1:30p,2:30p,HAMP 1144,Ming Yin,mingyin@purdue.edu
+CS 57800,60972-LE1,Lecture,Statistical Machine Learning ,MWF,08/21/2023,12/08/2023,10:30a,11:30a,LILY 3118,Ruqi Zhang,ruqiz@purdue.edu
+CS 57900,12931-LE1,Lecture,Bioinformatics Algorithms,TTh,08/22/2023,12/07/2023,10:30a,noon,LWSN 1106,Alex Pothen,pothen@purdue.edu
+CS 58000,38512-LE1,Lecture,Alg Design Anly & Impl,TTh,08/22/2023,12/07/2023,noon,1:30p,LILY G126,Mikhail J Atallah;Tamal Krishna Dey,matallah@purdue.edu;tamaldey@purdue.edu
+CS 58400,10775-LE1,Lecture,Thry Comp/Comp Complex,TTh,08/22/2023,12/07/2023,10:30a,noon,LWSN B134,Elena Grigorescu,elena-g@purdue.edu
+CS 59000L,59501-CLS,Lecture,Computing For Life Sciences,MWF,08/21/2023,12/08/2023,1:30p,2:30p,LWSN B134,Daisuke Kihara,dkihara@purdue.edu
+CS 59100RS,17268-RS1,Lecture,Res Sem First Yr Gr Student,MW,09/06/2023,10/30/2023,3:30p,4:30p,LWSN 1142,,
+CS 59100SEC,34240-SEC,Lecture,CERIAS Security Seminar,W,08/23/2023,12/06/2023,4:30p,5:30p,STEW 050B (STEW 052),Vasileios Zikas,vzikas@purdue.edu
+CS 59200CGS,11409-CGS,Lecture,Gen Methods In Comp Graphics,MW,08/21/2023,12/06/2023,4:30p,6:00p,LWSN B134,Bedrich Benes,bbenes@purdue.edu
+CS 59200HRI,11408-HRI,Lecture,Human-Robot Interaction,TTh,08/22/2023,12/07/2023,9:00a,10:30a,LWSN B134,Sooyeon Jeong,sooyeonj@purdue.edu
+CS 59200LLM,11410-LLM,Lecture,Adv Topics In Reasoning W/ LLM,TTh,08/22/2023,12/07/2023,1:30p,3:00p,LWSN B134,Dan Goldwasser,dgoldwas@purdue.edu
+CS 59200MP,13419-MP1,Lecture,Motion Planning,W,08/23/2023,12/06/2023,2:30p,5:30p,WALC 3138,Aniket Bera,aniketbera@purdue.edu
+CS 59300MLT,12066-MLT,Lecture,Machine Learning Theory,TTh,08/22/2023,12/07/2023,noon,1:30p,LWSN 1106,Stephen Robert Hanneke,

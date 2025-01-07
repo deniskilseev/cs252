@@ -1,0 +1,59 @@
+#!/bin/bash
+
+# PHONE
+# FIRST PART 
+# [1, +1] either [' ', '-', '.']
+# [0-9]*3 either [' ', '-', '.']
+# [0-9]*4 either [' ', '-', '.']
+
+
+
+if (($# != 1)); then
+    echo "Usage: verify <filename>"
+    exit 1
+fi
+
+if [[ ! -e "$1" || ! -r "$1" ]]; then
+    echo "Error: noread is not readable!"
+    exit 2
+fi
+
+
+
+IFS=$'\n'
+CNT=1
+for line in $(cat <$1)
+do
+    PHONE=$(cut -d ':' -f 1 <<<"$line")
+    EMAIL=$(cut -d ':' -f 2 <<<"$line")
+
+    PHONEREGEX="^(1|\+1)(\ |.|-)?([0-9]{3}|\([0-9]{3}\))(\ |.|-)?[0-9]{3}(\ |.|-)?[0-9]{4}$"
+    # PHONEREGEX="\ *^(1|\+1)(\ |.|-)?([0-9]{3}|\([0-9]{3}\))(\ |.|-)?[0-9]{3}(\ |.|-)?[0-9]{4}\ *$"
+
+    PHONEFLAG=0
+    EMAILFLAG=0
+    if [[ ! $PHONE =~ $PHONEREGEX ]]; then
+        ((PHONEFLAG=1))
+    fi
+
+    EMAILREGEX="^[A-Za-z0-9_-]+@([A-Za-z0-9_-]+\.)?[A-Za-z0-9_-]+\.[A-Za-z]+)?$"
+    #EMAILREGEX="^\ *[A-Za-z0-9_-]+@([A-Za-z0-9_-]+\.)?[A-Za-z0-9_-]+\.[A-Za-z]+)?\ *$"
+
+
+    if [[ ! $EMAIL =~ $EMAILREGEX ]]; then #first [] being email itself, second being subdomain, third being domain, last being tld
+        ((EMAILFLAG=1))
+    fi
+
+    if ((PHONEFLAG==1 && EMAILFLAG==1)); then
+        echo "Line $CNT has an invalid email and phone number."
+    elif ((PHONEFLAG == 1)); then
+        echo "Line $CNT has an invalid phone number."
+    elif ((EMAILFLAG==1)); then
+        echo "Line $CNT has an invalid email."
+    else
+        echo "Line $CNT is valid."
+    fi
+    ((CNT++))
+done
+
+exit 0

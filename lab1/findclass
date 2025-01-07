@@ -1,0 +1,44 @@
+#!/bin/bash
+
+if (($# != 0)); then
+	echo "Usage: findclass"
+	exit 1
+fi
+
+echo "Welcome to Class Finder!"
+echo -n "Please enter part or all of a class name to search for: "
+
+read COURSENAME
+
+COURSES=$(cat classes | sort | cut -d ',' -f 1 | grep "$COURSENAME" | uniq | wc -l)
+COURSENUMBER=$(cat classes | sort | cut -d ',' -f 1 | grep "$COURSENAME" | head -1)
+COURSEDATA=$(cat classes | sort | grep "^[CS ]*""$COURSENAME".*Lecture"" | head -1)
+COURSENUMBER=$(cut -d ',' -f 1 <<<"$COURSEDATA")
+COURSENAME=$(cut -d ',' -f 4 <<<"$COURSEDATA")
+PROFNAME=$(cut -d ',' -f 11 <<<"$COURSEDATA")
+PROFNAME=$(echo "$PROFNAME" | sed "s/;/\, /g")
+
+if ((COURSES > 1)); then
+	echo "I found $COURSES matches!"
+	echo "You might want to be more specific."
+	echo "The first of these matches is:"
+elif ((COURSES == 0)); then
+	echo "Sorry, I could not find that class."
+	exit 1
+fi
+
+echo "Name: $COURSENUMBER"
+echo "Title: $COURSENAME"
+echo "Professor: $PROFNAME"
+
+LECTURES=$(grep -c "^[CS ]*""$COURSENUMBER".*Lecture"" classes)
+LABS=$(grep -c "^[CS ]*""$COURSENUMBER".*Laboratory"" classes)
+PSOS=$(grep -c "^[CS ]*""$COURSENUMBER".*Pso"" classes)
+ALL=$(grep -c "^[CS ]*""$COURSENUMBER".*"" classes)
+((OTHERS=ALL-PSOS-LABS-LECTURES))
+
+echo "Lectures: $LECTURES"
+echo "Labs: $LABS"
+echo "PSOs: $PSOS"
+echo "Others: $OTHERS"
+exit 0
