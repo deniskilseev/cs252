@@ -21,11 +21,11 @@ OS : Linux
 
 1. Copy the project repository into desired folder using:
 
-`git clone https://github.com/ArtemiiAkhunov/Project6`
+`git clone https://github.com/deniskilseev/cs252`
 
 2. Navigate into the downloaded directory:
 
-`cd Project6`
+`cd cs252/Project6`
 
 3. Create build directory and build the project:
 
